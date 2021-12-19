@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: f827019439b10ea4491cac299f76eae6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5856763212506952522
+    second: matriax_free_assets_showcase_px_0
+  - first:
+      213: 1100973733631187102
+    second: matriax_free_assets_showcase_px_1
+  - first:
+      213: 2002199245914174255
+    second: matriax_free_assets_showcase_px_2
+  - first:
+      213: -8589922055992531523
+    second: matriax_free_assets_showcase_px_3
+  - first:
+      213: 7972669219658419426
+    second: matriax_free_assets_showcase_px_4
+  - first:
+      213: -2358642551854038520
+    second: matriax_free_assets_showcase_px_5
+  - first:
+      213: -1713289650870377718
+    second: matriax_free_assets_showcase_px_6
+  - first:
+      213: 8907148146464640137
+    second: matriax_free_assets_showcase_px_7
+  - first:
+      213: 1997862489932630489
+    second: matriax_free_assets_showcase_px_8
+  - first:
+      213: 3993142435698016293
+    second: matriax_free_assets_showcase_px_9
+  - first:
+      213: -2443884657602697932
+    second: matriax_free_assets_showcase_px_10
+  - first:
+      213: 6459873858445117435
+    second: matriax_free_assets_showcase_px_11
+  - first:
+      213: 1862479805238193247
+    second: matriax_free_assets_showcase_px_12
+  - first:
+      213: -1228631532970502786
+    second: matriax_free_assets_showcase_px_13
+  - first:
+      213: -8424502664220370019
+    second: matriax_free_assets_showcase_px_14
+  - first:
+      213: -6604575008013672636
+    second: matriax_free_assets_showcase_px_15
+  - first:
+      213: -1903316149311526760
+    second: matriax_free_assets_showcase_px_16
+  - first:
+      213: -5915465767963223730
+    second: matriax_free_assets_showcase_px_17
+  - first:
+      213: 2910774706005276857
+    second: matriax_free_assets_showcase_px_18
+  - first:
+      213: -2973396879332651630
+    second: matriax_free_assets_showcase_px_19
+  - first:
+      213: 7121475432202493312
+    second: matriax_free_assets_showcase_px_20
+  - first:
+      213: 8857554834467303368
+    second: matriax_free_assets_showcase_px_21
+  - first:
+      213: 8615766087699529399
+    second: matriax_free_assets_showcase_px_22
+  - first:
+      213: 7290739156725598697
+    second: matriax_free_assets_showcase_px_23
+  - first:
+      213: 3502616762445263117
+    second: matriax_free_assets_showcase_px_24
+  - first:
+      213: -7647762266205173555
+    second: matriax_free_assets_showcase_px_25
+  - first:
+      213: 593986484267740061
+    second: matriax_free_assets_showcase_px_26
+  - first:
+      213: -51052332399907840
+    second: matriax_free_assets_showcase_px_27
+  - first:
+      213: 469937968485924071
+    second: matriax_free_assets_showcase_px_28
+  - first:
+      213: 1697186093626053476
+    second: matriax_free_assets_showcase_px_29
+  - first:
+      213: -1649690771796349394
+    second: matriax_free_assets_showcase_px_30
+  - first:
+      213: 8112222934082067845
+    second: matriax_free_assets_showcase_px_31
+  - first:
+      213: -6392682546780036172
+    second: matriax_free_assets_showcase_px_32
+  - first:
+      213: -2159708894162098070
+    second: matriax_free_assets_showcase_px_33
+  - first:
+      213: -8000266226365828589
+    second: matriax_free_assets_showcase_px_34
+  - first:
+      213: 8756163304788254529
+    second: matriax_free_assets_showcase_px_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 417
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc82f083e898bea0800000000000000
+      internalID: -5856763212506952522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 417
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985f1c07c1774f00800000000000000
+      internalID: 1100973733631187102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 417
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23f4462b9d39cb10800000000000000
+      internalID: 2002199245914174255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 417
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5a544c6677ac880800000000000000
+      internalID: -8589922055992531523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 417
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4e6d0a6c94ae60800000000000000
+      internalID: 7972669219658419426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 417
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028e90881b644fd0800000000000000
+      internalID: -2358642551854038520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 337
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a482d32c2938e0800000000000000
+      internalID: -1713289650870377718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 337
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ccdcf0c0c8c9b70800000000000000
+      internalID: 8907148146464640137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 337
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d903867955d9bb10800000000000000
+      internalID: 1997862489932630489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 337
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520815183ed7a6730800000000000000
+      internalID: 3993142435698016293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 337
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43560972ad3951ed0800000000000000
+      internalID: -2443884657602697932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 337
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf704726c0516a950800000000000000
+      internalID: 6459873858445117435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5caf88d38bd8d910800000000000000
+      internalID: 1862479805238193247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75137d512603fee0800000000000000
+      internalID: -1228631532970502786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 257
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b10d93677261b80800000000000000
+      internalID: -8424502664220370019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f1ce2d506d754a0800000000000000
+      internalID: -6604575008013672636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 257
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a501eb001695e0800000000000000
+      internalID: -1903316149311526760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49919bb93b08eda0800000000000000
+      internalID: -5915465767963223730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f2a45c26256820800000000000000
+      internalID: 2910774706005276857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4f1fba4f5cb6d0800000000000000
+      internalID: -2973396879332651630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 177
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd915ac2094d260800000000000000
+      internalID: 7121475432202493312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 177
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa7fe413b5cea70800000000000000
+      internalID: 8857554834467303368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 177
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beff25cb99519770800000000000000
+      internalID: 8615766087699529399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 177
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e909a292a8ed2560800000000000000
+      internalID: 7290739156725598697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f0e5436bcb9030800000000000000
+      internalID: 3502616762445263117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8443c0db0bdd590800000000000000
+      internalID: -7647762266205173555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b69247f834e3800800000000000000
+      internalID: 593986484267740061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c29569c20aa4ff0800000000000000
+      internalID: -51052332399907840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 97
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec721ea71e858600800000000000000
+      internalID: 469937968485924071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 97
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463505492cd9d8710800000000000000
+      internalID: 1697186093626053476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea6d5cbfe1b19e0800000000000000
+      internalID: -1649690771796349394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1db437c7649070800000000000000
+      internalID: 8112222934082067845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32655f711a847a0800000000000000
+      internalID: -6392682546780036172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 17
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686731143c2702e0800000000000000
+      internalID: -2159708894162098070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f8ec114859f090800000000000000
+      internalID: -8000266226365828589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matriax_free_assets_showcase_px_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 17
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fd6313224248970800000000000000
+      internalID: 8756163304788254529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

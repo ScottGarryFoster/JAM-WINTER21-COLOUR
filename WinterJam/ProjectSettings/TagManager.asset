@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player-Sword
+  - BlackWhiteTexture
+  - Pickup-Tree-Red
+  - Player-Collection
+  - Pickup-Tree-Purple
+  - Pickup-Bush-Red
+  - Pickup-Bush-Purple
+  - Exit
+  - Enemy-Bat
+  - Level
   layers:
   - Default
   - TransparentFX
